@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="mllib-local,assembly,examples,streaming-flume-assembly,unsafe,network-common,network-shuffle,streaming,core,tags,streaming-flume,asterixDB_Connect,sketch,launcher,graphx,streaming-flume-sink,hive,catalyst,sql-kafka-0-10,sql,streaming-kafka-0-8,streaming-kafka-0-10,java8-tests,repl,streaming-kafka-0-8-assembly,streaming-kafka-0-10-assembly,tools,mllib">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+    </profile>
+    <profile name="SBT 1" modules="oldDeps" />
+    <profile name="SBT 10" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/examples/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 11" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/flume/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 12" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/flume-assembly/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 13" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/flume-sink/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 14" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/java8-tests/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.8" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 15" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/kafka-0-10/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 16" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/kafka-0-10-assembly/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 17" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/kafka-0-10-sql/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 18" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/kafka-0-8/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 19" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/external/kafka-0-8-assembly/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 2" modules="spark">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 20" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/graphx/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 21" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/launcher/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 22" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/mllib/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 23" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/mllib-local/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 24" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/repl/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 25" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/sql/catalyst/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 26" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/sql/core/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 27" modules="">
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/sql/hive/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 28" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/streaming/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 29" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/tools/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 3" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/assembly/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 4" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/common/network-common/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 5" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/common/network-shuffle/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 6" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/common/sketch/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 7" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/common/tags/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 8" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/common/unsafe/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+    <profile name="SBT 9" modules="">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-P:genjavadoc:out=/Users/MingdaLi/Desktop/ucla_4/spark-2.0.2/core/target/java" />
+        <parameter value="-P:genjavadoc:strictVisibility=true" />
+        <parameter value="-target:jvm-1.7" />
+        <parameter value="-sourcepath" />
+        <parameter value="$PROJECT_DIR$" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

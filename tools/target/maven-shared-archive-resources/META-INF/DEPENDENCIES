@@ -1,0 +1,123 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Spark Project Tools
+
+
+From: 'an unknown organization'
+  - JSON.simple (http://code.google.com/p/json-simple/) com.googlecode.json-simple:json-simple:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JLine (http://nexus.sonatype.org/oss-repository-hosting.html/jline) jline:jline:jar:2.12.1
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - ini4j (http://www.ini4j.org) org.ini4j:ini4j:jar:0.5.4
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - empty (http://nexus.sonatype.org/oss-repository-hosting.html/unused) org.spark-project.spark:unused:jar:1.0.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://apache.org)
+  - Wicket Core (http://wicket.apache.org/wicket-core/wicket-core) org.apache.wicket:wicket-core:jar:1.5.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Request (http://maven.apache.org) org.apache.wicket:wicket-request:jar:1.5.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Util (http://maven.apache.org) org.apache.wicket:wicket-util:jar:1.5.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'JSON' (http://json.org/)
+  - JSON (JavaScript Object Notation) (http://www.json.org/java/index.html) org.json:json:jar:20090211
+    License: provided without support or warranty  (http://www.json.org/license.html)
+
+From: 'Kohsuke Kawaguchi' (http://www.kohsuke.org/)
+  - args4j (http://args4j.dev.java.net/args4j/) args4j:args4j:jar:2.0.12
+
+
+From: 'LAMP/EPFL' (http://lamp.epfl.ch/)
+  - Scala Compiler (http://www.scala-lang.org/) org.scala-lang:scala-compiler:jar:2.11.8
+    License: BSD 3-Clause  (http://www.scala-lang.org/license.html)
+  - Scala Library (http://www.scala-lang.org/) org.scala-lang:scala-library:jar:2.11.8
+    License: BSD 3-Clause  (http://www.scala-lang.org/license.html)
+  - Scala Compiler (http://www.scala-lang.org/) org.scala-lang:scala-reflect:jar:2.11.8
+    License: BSD 3-Clause  (http://www.scala-lang.org/license.html)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.0.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Commons (http://asm.objectweb.org/asm-commons/) org.ow2.asm:asm-commons:jar:5.0.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Tree (http://asm.objectweb.org/asm-tree/) org.ow2.asm:asm-tree:jar:5.0.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Util (http://asm.objectweb.org/asm-util/) org.ow2.asm:asm-util:jar:5.0.2
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'org.clapper' (http://software.clapper.org/classutil/)
+  - classutil (http://software.clapper.org/classutil/) org.clapper:classutil_2.11:jar:1.0.6
+    License: BSD New  (http://software.clapper.org/classutil/license.html)
+
+From: 'org.clapper' (http://software.clapper.org/grizzled-scala/)
+  - grizzled-scala (http://software.clapper.org/grizzled-scala/) org.clapper:grizzled-scala_2.11:jar:1.4.0
+    License: BSD  (http://software.clapper.org/grizzled-scala/license.html)
+
+From: 'org.clapper' (https://github.com/bmc/grizzled-slf4j/#readme)
+  - grizzled-slf4j (https://github.com/bmc/grizzled-slf4j/#readme) org.clapper:grizzled-slf4j_2.11:jar:1.0.2
+    License: BSD  (http://software.clapper.org/grizzled-slf4j/license.html)
+
+From: 'org.scala-lang.modules' (http://github.com/scala/async)
+  - scala-async (http://github.com/scala/async) org.scala-lang.modules:scala-async_2.11:bundle:0.9.1
+    License: Scala license  (https://github.com/scala/async/blob/master/LICENSE)
+
+From: 'org.scala-lang.modules' (http://www.scala-lang.org/)
+  - scala-parser-combinators (http://www.scala-lang.org/) org.scala-lang.modules:scala-parser-combinators_2.11:bundle:1.0.4
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+  - scala-xml (http://www.scala-lang.org/) org.scala-lang.modules:scala-xml_2.11:bundle:1.0.4
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.16
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.3.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.4.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-api (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-api/) org.apache.hyracks:hyracks-api:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-client (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-client/) org.apache.hyracks:hyracks-client:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-comm (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-comm/) org.apache.hyracks:hyracks-comm:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-control-cc (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-control/hyracks-control-cc/) org.apache.hyracks:hyracks-control-cc:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-control-common (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-control/hyracks-control-common/) org.apache.hyracks:hyracks-control-common:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-control-nc (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-control/hyracks-control-nc/) org.apache.hyracks:hyracks-control-nc:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-data-std (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-data/hyracks-data-std/) org.apache.hyracks:hyracks-data-std:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-dataflow-common (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-dataflow-common/) org.apache.hyracks:hyracks-dataflow-common:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-ipc (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-ipc/) org.apache.hyracks:hyracks-ipc:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-net (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-net/) org.apache.hyracks:hyracks-net:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - hyracks-util (http://www.apache.org/apache-asterixdb-hyracks/hyracks/hyracks-util/) org.apache.hyracks:hyracks-util:jar:0.2.18-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Webtide' (http://webtide.com)
+  - Jetty :: Webapp Application Support (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-webapp:jar:9.3.11.v20160721
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: XML utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-xml:jar:9.3.11.v20160721
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+
+
+

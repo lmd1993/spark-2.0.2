@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="catalyst" />
+        <module name="core" />
+        <module name="examples" />
+        <module name="graphx" />
+        <module name="hive" />
+        <module name="launcher" />
+        <module name="mllib" />
+        <module name="mllib-local" />
+        <module name="network-common" />
+        <module name="network-shuffle" />
+        <module name="repl" />
+        <module name="sketch" />
+        <module name="sql" />
+        <module name="sql-kafka-0-10" />
+        <module name="streaming" />
+        <module name="streaming-flume" />
+        <module name="streaming-flume-assembly" />
+        <module name="streaming-flume-sink" />
+        <module name="streaming-kafka-0-10" />
+        <module name="streaming-kafka-0-10-assembly" />
+        <module name="streaming-kafka-0-8" />
+        <module name="streaming-kafka-0-8-assembly" />
+        <module name="tags" />
+        <module name="tools" />
+        <module name="unsafe" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="assembly" target="1.5" />
+      <module name="asterixDB_Connect" target="1.5" />
+      <module name="catalyst" target="1.7" />
+      <module name="core" target="1.7" />
+      <module name="examples" target="1.7" />
+      <module name="graphx" target="1.7" />
+      <module name="hive" target="1.7" />
+      <module name="java8-tests" target="1.8" />
+      <module name="launcher" target="1.7" />
+      <module name="mllib" target="1.7" />
+      <module name="mllib-local" target="1.7" />
+      <module name="network-common" target="1.7" />
+      <module name="network-shuffle" target="1.7" />
+      <module name="repl" target="1.7" />
+      <module name="sketch" target="1.7" />
+      <module name="spark" target="1.5" />
+      <module name="sql" target="1.7" />
+      <module name="sql-kafka-0-10" target="1.7" />
+      <module name="streaming" target="1.7" />
+      <module name="streaming-flume" target="1.7" />
+      <module name="streaming-flume-assembly" target="1.7" />
+      <module name="streaming-flume-sink" target="1.7" />
+      <module name="streaming-kafka-0-10" target="1.7" />
+      <module name="streaming-kafka-0-10-assembly" target="1.7" />
+      <module name="streaming-kafka-0-8" target="1.7" />
+      <module name="streaming-kafka-0-8-assembly" target="1.7" />
+      <module name="tags" target="1.7" />
+      <module name="tools" target="1.7" />
+      <module name="unsafe" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF-8" />
+  </component>
+</project>

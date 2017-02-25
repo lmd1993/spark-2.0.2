@@ -1,0 +1,14 @@
+products:
+   src/main/scala/org/apache/spark/annotation/Since.scala -> target/scala-2.11/classes/org/apache/spark/annotation/Since.class
+   src/main/scala/org/apache/spark/annotation/package.scala -> target/scala-2.11/classes/org/apache/spark/annotation/package$.class
+   src/main/scala/org/apache/spark/annotation/package.scala -> target/scala-2.11/classes/org/apache/spark/annotation/package.class
+binary dependencies:
+   src/main/scala/org/apache/spark/annotation/Since.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/org/apache/spark/annotation/Since.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/org/apache/spark/annotation/package.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/org/apache/spark/annotation/Since.scala -> org.apache.spark.annotation.Since
+   src/main/scala/org/apache/spark/annotation/package.scala -> org.apache.spark.annotation.package
+   src/main/scala/org/apache/spark/annotation/package.scala -> org.apache.spark.annotation.package$

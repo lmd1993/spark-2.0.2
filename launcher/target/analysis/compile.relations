@@ -1,0 +1,131 @@
+products:
+   src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java -> target/scala-2.11/classes/org/apache/spark/launcher/AbstractCommandBuilder.class
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> target/scala-2.11/classes/org/apache/spark/launcher/ChildProcAppHandle.class
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> target/scala-2.11/classes/org/apache/spark/launcher/CommandBuilderUtils$JavaVendor.class
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> target/scala-2.11/classes/org/apache/spark/launcher/CommandBuilderUtils.class
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherConnection.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol$Hello.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol$Message.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol$SetAppId.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol$SetState.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol$Stop.class
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherProtocol.class
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherServer$1.class
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherServer$2.class
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherServer$ServerConnection.class
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> target/scala-2.11/classes/org/apache/spark/launcher/LauncherServer.class
+   src/main/java/org/apache/spark/launcher/Main.java -> target/scala-2.11/classes/org/apache/spark/launcher/Main$1.class
+   src/main/java/org/apache/spark/launcher/Main.java -> target/scala-2.11/classes/org/apache/spark/launcher/Main$MainClassOptionParser.class
+   src/main/java/org/apache/spark/launcher/Main.java -> target/scala-2.11/classes/org/apache/spark/launcher/Main.class
+   src/main/java/org/apache/spark/launcher/NamedThreadFactory.java -> target/scala-2.11/classes/org/apache/spark/launcher/NamedThreadFactory.class
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> target/scala-2.11/classes/org/apache/spark/launcher/OutputRedirector$1.class
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> target/scala-2.11/classes/org/apache/spark/launcher/OutputRedirector.class
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkAppHandle$Listener.class
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkAppHandle$State.class
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkAppHandle.class
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkClassCommandBuilder.class
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkLauncher$ArgumentValidator.class
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkLauncher.class
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkSubmitCommandBuilder$1.class
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkSubmitCommandBuilder$OptionParser.class
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkSubmitCommandBuilder.class
+   src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java -> target/scala-2.11/classes/org/apache/spark/launcher/SparkSubmitOptionParser.class
+binary dependencies:
+   src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/Main.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/NamedThreadFactory.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+source dependencies:
+   src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java -> src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/LauncherConnection.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/LauncherProtocol.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/LauncherServer.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/NamedThreadFactory.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/OutputRedirector.java
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> src/main/java/org/apache/spark/launcher/SparkAppHandle.java
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> src/main/java/org/apache/spark/launcher/LauncherConnection.java
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> src/main/java/org/apache/spark/launcher/LauncherProtocol.java
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> src/main/java/org/apache/spark/launcher/LauncherProtocol.java
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> src/main/java/org/apache/spark/launcher/SparkAppHandle.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/LauncherConnection.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/LauncherProtocol.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/LauncherServer.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/NamedThreadFactory.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/SparkAppHandle.java
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> src/main/java/org/apache/spark/launcher/SparkLauncher.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/Main.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/Main.java -> src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java
+   src/main/java/org/apache/spark/launcher/NamedThreadFactory.java -> src/main/java/org/apache/spark/launcher/NamedThreadFactory.java
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> src/main/java/org/apache/spark/launcher/OutputRedirector.java
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> src/main/java/org/apache/spark/launcher/SparkAppHandle.java
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/LauncherProtocol.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/LauncherServer.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/SparkAppHandle.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/SparkLauncher.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> src/main/java/org/apache/spark/launcher/SparkLauncher.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java
+   src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java -> src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java
+external dependencies:
+class names:
+   src/main/java/org/apache/spark/launcher/AbstractCommandBuilder.java -> org.apache.spark.launcher.AbstractCommandBuilder
+   src/main/java/org/apache/spark/launcher/ChildProcAppHandle.java -> org.apache.spark.launcher.ChildProcAppHandle
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> org.apache.spark.launcher.CommandBuilderUtils
+   src/main/java/org/apache/spark/launcher/CommandBuilderUtils.java -> org.apache.spark.launcher.CommandBuilderUtils$JavaVendor
+   src/main/java/org/apache/spark/launcher/LauncherConnection.java -> org.apache.spark.launcher.LauncherConnection
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Hello
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Message
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$SetAppId
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$SetState
+   src/main/java/org/apache/spark/launcher/LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Stop
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> org.apache.spark.launcher.LauncherServer
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> org.apache.spark.launcher.LauncherServer$1
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> org.apache.spark.launcher.LauncherServer$2
+   src/main/java/org/apache/spark/launcher/LauncherServer.java -> org.apache.spark.launcher.LauncherServer$ServerConnection
+   src/main/java/org/apache/spark/launcher/Main.java -> org.apache.spark.launcher.Main
+   src/main/java/org/apache/spark/launcher/Main.java -> org.apache.spark.launcher.Main$1
+   src/main/java/org/apache/spark/launcher/Main.java -> org.apache.spark.launcher.Main$MainClassOptionParser
+   src/main/java/org/apache/spark/launcher/NamedThreadFactory.java -> org.apache.spark.launcher.NamedThreadFactory
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> org.apache.spark.launcher.OutputRedirector
+   src/main/java/org/apache/spark/launcher/OutputRedirector.java -> org.apache.spark.launcher.OutputRedirector$1
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle$Listener
+   src/main/java/org/apache/spark/launcher/SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle$State
+   src/main/java/org/apache/spark/launcher/SparkClassCommandBuilder.java -> org.apache.spark.launcher.SparkClassCommandBuilder
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> org.apache.spark.launcher.SparkLauncher
+   src/main/java/org/apache/spark/launcher/SparkLauncher.java -> org.apache.spark.launcher.SparkLauncher$ArgumentValidator
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$1
+   src/main/java/org/apache/spark/launcher/SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$OptionParser
+   src/main/java/org/apache/spark/launcher/SparkSubmitOptionParser.java -> org.apache.spark.launcher.SparkSubmitOptionParser

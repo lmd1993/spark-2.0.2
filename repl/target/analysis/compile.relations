@@ -1,0 +1,93 @@
+products:
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$2.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$createSparkSession$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$createSparkSession$2.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$createSparkSession$3.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$$anonfun$doMain$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main$.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> target/scala-2.11/classes/org/apache/spark/repl/Main.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$$anonfun$initializeSpark$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$$anonfun$run$1$$anonfun$apply$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$$anonfun$run$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$$anonfun$run$2.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$$anonfun$sparkStandardCommands$1.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop$.class
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> target/scala-2.11/classes/org/apache/spark/repl/SparkILoop.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ConstructorCleaner.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anon$1$$anonfun$read$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anon$1$$anonfun$read$2.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anon$1$$anonfun$read$3.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anon$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$2.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$3.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$findClass$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$findClassLocally$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$findClassLocally$2.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$findClassLocally$3.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$org$apache$spark$repl$ExecutorClassLoader$$getClassFileInputStreamFromHttpServer$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader$$anonfun$urlEncode$1.class
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> target/scala-2.11/classes/org/apache/spark/repl/ExecutorClassLoader.class
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> target/scala-2.11/classes/org/apache/spark/repl/Signaling$$anonfun$cancelOnInterrupt$1$$anonfun$apply$mcZ$sp$1.class
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> target/scala-2.11/classes/org/apache/spark/repl/Signaling$$anonfun$cancelOnInterrupt$1.class
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> target/scala-2.11/classes/org/apache/spark/repl/Signaling$.class
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> target/scala-2.11/classes/org/apache/spark/repl/Signaling.class
+binary dependencies:
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> /Users/MingdaLi/.m2/repository/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> /Users/MingdaLi/.m2/repository/org/apache/spark/spark-sql_2.11/2.0.2/spark-sql_2.11-2.0.2.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> /Users/MingdaLi/.m2/repository/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> /Users/MingdaLi/.m2/repository/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> /Users/MingdaLi/.m2/repository/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.jar
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> /Users/MingdaLi/.m2/repository/org/apache/xbean/xbean-asm5-shaded/4.4/xbean-asm5-shaded-4.4.jar
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> /Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> /Users/MingdaLi/.m2/repository/org/apache/spark/spark-core_2.11/2.0.2/spark-core_2.11-2.0.2.jar
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> /Users/MingdaLi/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+source dependencies:
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> src/main/scala/org/apache/spark/repl/Signaling.scala
+external dependencies:
+class names:
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$2
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$createSparkSession$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$createSparkSession$2
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$createSparkSession$3
+   scala-2.11/src/main/scala/org/apache/spark/repl/Main.scala -> org.apache.spark.repl.Main$$anonfun$doMain$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$$anonfun$initializeSpark$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$$anonfun$run$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$$anonfun$run$1$$anonfun$apply$1
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$$anonfun$run$2
+   scala-2.11/src/main/scala/org/apache/spark/repl/SparkILoop.scala -> org.apache.spark.repl.SparkILoop$$anonfun$sparkStandardCommands$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ConstructorCleaner
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anon$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anon$1$$anonfun$read$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anon$1$$anonfun$read$2
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anon$1$$anonfun$read$3
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$2
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$3
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$findClass$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$findClassLocally$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$findClassLocally$2
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$findClassLocally$3
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$org$apache$spark$repl$ExecutorClassLoader$$getClassFileInputStreamFromHttpServer$1
+   src/main/scala/org/apache/spark/repl/ExecutorClassLoader.scala -> org.apache.spark.repl.ExecutorClassLoader$$anonfun$urlEncode$1
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> org.apache.spark.repl.Signaling
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> org.apache.spark.repl.Signaling$
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> org.apache.spark.repl.Signaling$$anonfun$cancelOnInterrupt$1
+   src/main/scala/org/apache/spark/repl/Signaling.scala -> org.apache.spark.repl.Signaling$$anonfun$cancelOnInterrupt$1$$anonfun$apply$mcZ$sp$1
